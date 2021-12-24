@@ -1,2 +1,1 @@
-# Cfx-ip-finder
-FiveM
+
